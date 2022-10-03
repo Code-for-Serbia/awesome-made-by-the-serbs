@@ -24,4 +24,13 @@ If you want to add *PRODUCT* to this list, please, make sure that:
 2. The project has more that 1 paying customers or at least 30 followers on Linkedin page. 
 3. Fork this repo and create pull request from brnach *product/name-of-product*
 
+
+If you want to add *WEB3 PRODUCT* to this list, please, make sure that:
+
+1. The project was created by the developer born in Serbia or self-indicate themself as the Serb.
+2. The project has more at least 200 Discort memebers on their official Discort. 
+3. Fork this repo and create pull request from brnach *product/name-of-product*
+
+
 **Please, check twice that you have picked the correct category and added the project according to alphabetical order.**
+
