@@ -15,7 +15,7 @@ Top Eleven is a football manager simulation developed and published by Nordeus i
 - **[Polygon](https://polygon.technology)**<br>
 Your mission should you choose to accept it, is to help scale Ethereum in the fastest and the most secure manner.
 
-## OPEN-SOURCe 
+## OPEN SOURCE 🌍🌎🌏
 
 - **[pastemyst](https://github.com/codemyst/pastemyst)**<br>
 a powerful website for storing and sharing text and code snippets. completely free and open source
