@@ -15,6 +15,11 @@ Top Eleven is a football manager simulation developed and published by Nordeus i
 - **[Polygon](https://polygon.technology)**<br>
 Your mission should you choose to accept it, is to help scale Ethereum in the fastest and the most secure manner.
 
+- **[Nimi](https://github.com/nimi-app)**<br>
+YOUR PERSONAL WEB3 FRONT PAGE Your Web3 Identity.
+
+
+
 ## OPEN SOURCE 🌍🌎🌏
 
 - **[pastemyst](https://github.com/codemyst/pastemyst)**<br>
@@ -25,7 +30,7 @@ a powerful website for storing and sharing text and code snippets. completely fr
 If you want to add *OPEN SOURCE PROJECT* to this list, please, make sure that:
 
 1. The project was created by the developer born in Serbia or self-indicate themself as the Serb.
-2. The project has more that 50 stars on Github.
+2. The project has more that 10 stars on Github.
 3. Fork this repo and create pull request from brnach *open-spource/name-of-open-source-project*
 
 If you want to add *PRODUCT* to this list, please, make sure that:
